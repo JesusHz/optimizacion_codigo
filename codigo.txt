@@ -22,5 +22,3 @@ NULL NULL NULL goto20
 NULL NULL NULL goto90
 NULL NULL NULL goto100
 + 4 3 t12
-- t12 a t13
-+ 200 a t10
