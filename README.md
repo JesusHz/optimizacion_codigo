@@ -1,2 +1,2 @@
 # optimizacion_de_codigo
-Lenguajes y Automatas
+Lenguajes y Automatas optimizacion de codigo
